@@ -1,0 +1,57 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+table {
+  max-width: 100%;
+  overflow-x: auto;
+  display: block;
+}
+th,
+td {
+  text-align: left;
+  min-width: 100px;
+}
+/* table {
+  max-width: 100%;
+  overflow-x: auto;
+  display: block;
+  margin-bottom: 20px;
+} */
+/* th,
+td {
+  text-align: left;
+  min-width: 100px;
+} */
+
+/* table {
+  max-width: 100%;
+  overflow-x: auto;
+  display: block;
+  margin-bottom: 20px;
+} */
